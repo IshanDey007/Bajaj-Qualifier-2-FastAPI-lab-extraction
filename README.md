@@ -36,7 +36,7 @@ Copy
 Edit
 pip install fastapi uvicorn pytesseract opencv-python
 
-## 2. Install Tesseract OCR
+### 2. Install Tesseract OCR
 Windows
 Download installer: https://github.com/tesseract-ocr/tesseract
 
@@ -79,6 +79,9 @@ Copy
 Edit
 http://127.0.0.1:8000/docs
 Use Swagger UI to upload an image and test the /get-lab-tests POST endpoint.
+
+### DATASET LINK : https://drive.google.com/file/d/1LzG7oJ-cqGHK9KbwXnWfkWgnQ3xi8Cr9/view
+Add this data set to your folder if you want to just run the tests on it locally by using the run_ocr.
 
 ✅ Example JSON Output
 json
