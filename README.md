@@ -103,5 +103,5 @@ Accuracy depends on image clarity and format.
 
 Regex can be adjusted in parser.py if your report formats vary.
 
-📄 License
+## 📄 License
 MIT License. Feel free to modify and use.
